@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/02/2020, 07:57:38 PM
+    Author     : 52553
+*/
+@font-face {
+    font-family: 'love_ya';
+    src: url('../fuentes/loveya.eot'); /* IE9 Compat Modes */
+    src: url('../fuentes/loveya.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fuentes/loveya.woff') format('woff'), /* Modern Browsers */
+        url('../fuentes/loveya.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('../fuentes/loveya.svg#love_ya_like_a_sisterregular') format('svg'); /* Legacy iOS */
+}
+
+body {
+    font-family: "love_ya";
+
+}

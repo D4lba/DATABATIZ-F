@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/02/2020, 10:30:00 PM
+    Author     : Credi-Soft
+*/
+
+@font-face {
+    font-family: 'love_ya';
+    src: url('../fuentes/loveya.eot'); /* IE9 Compat Modes */
+    src: url('../fuentes/loveya.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fuentes/loveya.woff') format('woff'), /* Modern Browsers */
+        url('../fuentes/loveya.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('../fuentes/loveya.svg#love_ya_like_a_sisterregular') format('svg'); /* Legacy iOS */
+}
+
+body {
+    font-family: "love_ya";
+
+}
+
+
+#cabecera {
+    background-color: #ff0000;
+    padding: 20px;
+    font-size: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#pie-pagina {
+    background-color: purple;
+    padding: 20px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.biografia {
+    background-color: #00FFFF;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#blog {
+    margin-left: auto;
+    margin-right: auto;
+    width: 850px;
+}
+
+img_izquierda {
+  float: left;
+  margin-right: 20px;
+}
+
+#pie-pagina, #cabecera {
+    clear: both;
+}
+
+#caja-der {
+    float: right;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
