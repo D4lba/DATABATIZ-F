@@ -1,4 +1,4 @@
-<style>
+style
 body 
 { 
     background-color: #ECDEE3; 
@@ -64,8 +64,8 @@ select
     font: comic-sans;
     font-size: 14px;
     height: 40px;
-    padding:
-        width: 250px;} 
+    padding:10px;
+    width: 250px;} 
 
 #registro 
 {
@@ -82,4 +82,4 @@ select
 
 }
 
-</style>
+
